@@ -308,8 +308,8 @@ If you use this evaluation framework in your research, please cite:
 @software{rag_graph_evaluation,
   title={RAG vs Graph-Aware Retrieval Evaluation Framework},
   author={AI Research Agent Team},
-  year={2024},
-  url={https://github.com/your-repo/evaluation}
+  year={2025},
+  url={https://github.com/NurcholishAdam/ai_research_agent_evaluation}
 }
 ```
 
@@ -321,5 +321,6 @@ If you use this evaluation framework in your research, please cite:
 - **Knowledge Graphs**: Structured Knowledge for AI Systems
 
 ---
+
 
 For questions or issues, please open a GitHub issue or contact the development team.
